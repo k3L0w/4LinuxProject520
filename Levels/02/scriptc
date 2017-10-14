@@ -1,0 +1,19 @@
+#!/usr/bin/python3
+
+print()
+print('###################################################################')
+print('#                 * ENTRADA E SAÍDA DE DADOS *                    #')
+print('#                         * print *                               #')
+print('#####################################################TomJobs##v.1##')
+print()
+
+#variable
+memberone = 'Ude'
+membertwo = 'Aila'
+print('The first member is: ', memberone)
+print('The member two is: ', membertwo)
+
+#Utilizando separador
+print()
+print('The member are: ')
+print(memberone, membertwo, sep = ' e ')

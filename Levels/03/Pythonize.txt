@@ -1,0 +1,29 @@
+PYTHONIZE:
+-> 20 Artigos e Sites essenciais para você aprender Python
+Tópicos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-para-voce-aprender-python.html
+
+01. Python For Begginers -> http://www.pythonforbeginners.com/
+02. Google’s Python Class -> https://developers.google.com/edu/python/
+03. Python para desenvolvedores -> https://ark4n.wordpress.com/python/
+04. Dive Into Python 3 -> http://www.diveintopython3.net/
+05. Learn Python in 10 minutes -> http://www.stavros.io/tutorials/python/
+06. Python Overview Tutorial -> http://www.afterhoursprogramming.com/tutorial/Python/Overview/
+07. How To Think Like a Computer Scientist -> http://interactivepython.org/courselib/static/thinkcspy/toc.html
+08. Online Python Tutor -> http://www.pythontutor.com/?utm_source=Python%20Weekly%20Newsletter&utm_campaign=8742268291-Python_Weekly_Issue_53_September_20_2012&utm_medium=email
+09. Pedro Kroger -> http://pedrokroger.net/
+10. The Hitchhiker’s Guide to Python -> http://docs.python-guide.org/en/latest/
+11. Artificial Intelligence in Motion -> http://aimotion.blogspot.com.br/
+12. Real Python -> https://realpython.com/blog/
+13. Jeff Knupp -> http://jeffknupp.com/
+14. Welcome to Python for you and me -> http://pymbook.readthedocs.org/en/latest/
+15. Learn Python The Hard Way -> http://learnpythonthehardway.org/book/
+16. The Digital Cat -> http://lgiordani.com/
+17. Lerner Consulting Blog -> http://blog.lerner.co.il/
+18. PyCursos -> http://pycursos.com/
+19. Codecademy -> http://www.codecademy.com/tracks/python
+20. Python Help -> http://pythonhelp.wordpress.com/
+21. Aprendendo Python - UPDATE1 -> https://ericstk.wordpress.com/
+22. Python Tutorial - UPDATE-2 -> http://www.guru99.com/python-tutorials.html 
+
+
+Tópicos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-para-voce-aprender-python.html

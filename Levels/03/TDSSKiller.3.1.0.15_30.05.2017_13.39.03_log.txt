@@ -1,0 +1,5 @@
+Python Developers:
+. Luiz Eduardo Borges;
+. Nilo Menezes
+. Nico Parlante
+. Pedro Kroger

@@ -4,9 +4,9 @@ print()
 print('###################################################################')
 print('#                  MANIPULAÇÃO DE ARQUIVOS                        #')
 print('#                * Lê os dados em Arquivos *                      #')
-print('#####################################################TomJobs##v.1##')
+print('#####################################################TomJobs##v.2##')
 print()
 
 #Lendo todas informações de um arquivo
 with open('Pythonize.txt', 'r+') as f:
-    print (f.read())
+    print(f.read())

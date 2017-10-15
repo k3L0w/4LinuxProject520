@@ -1,5 +1,6 @@
 PYTHONIZE:
--> 20 Artigos e Sites essenciais para você aprender Python
+20 Artigos e Sites essenciais para você aprender Python
+Posted by Anderson Berg on 15 Dez, 2014 
 Tópicos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-para-voce-aprender-python.html
 
 01. Python For Begginers -> http://www.pythonforbeginners.com/

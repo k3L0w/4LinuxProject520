@@ -1,10 +1,10 @@
 PYTHONIZE:
-20 Artigos e Sites essenciais para você aprender Python
+20 Artigos e Sites essenciais para vocÃª aprender Python
 Posted by Anderson Berg on 15 Dez, 2014 
-Tópicos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-para-voce-aprender-python.html
+TÃ³picos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-para-voce-aprender-python.html
 
 01. Python For Begginers -> http://www.pythonforbeginners.com/
-02. Google’s Python Class -> https://developers.google.com/edu/python/
+02. Googleâ€™s Python Class -> https://developers.google.com/edu/python/
 03. Python para desenvolvedores -> https://ark4n.wordpress.com/python/
 04. Dive Into Python 3 -> http://www.diveintopython3.net/
 05. Learn Python in 10 minutes -> http://www.stavros.io/tutorials/python/
@@ -12,7 +12,7 @@ Tópicos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-pa
 07. How To Think Like a Computer Scientist -> http://interactivepython.org/courselib/static/thinkcspy/toc.html
 08. Online Python Tutor -> http://www.pythontutor.com/?utm_source=Python%20Weekly%20Newsletter&utm_campaign=8742268291-Python_Weekly_Issue_53_September_20_2012&utm_medium=email
 09. Pedro Kroger -> http://pedrokroger.net/
-10. The Hitchhiker’s Guide to Python -> http://docs.python-guide.org/en/latest/
+10. The Hitchhikerâ€™s Guide to Python -> http://docs.python-guide.org/en/latest/
 11. Artificial Intelligence in Motion -> http://aimotion.blogspot.com.br/
 12. Real Python -> https://realpython.com/blog/
 13. Jeff Knupp -> http://jeffknupp.com/
@@ -27,4 +27,4 @@ Tópicos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-pa
 22. Python Tutorial - UPDATE-2 -> http://www.guru99.com/python-tutorials.html 
 
 
-Tópicos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-para-voce-aprender-python.html
+TÃ³picos extraidos do site: http://pythonize.org/20-artigos-e-sites-essenciais-para-voce-aprender-python.html

@@ -4,7 +4,7 @@
 #DADOS
 nome = "ANTONIO GERARDO PEREIRA"
 eMail = "developer.criation@gmail.com"
-github = "https://github.com/k3l0w"
+github = "https://github.com/k3L0w/project520/blob/master/cv.py"
 phone = "(11) 9 6802-8224"
 rua = "Rua: Vergueiro, 2543 Vila Mariana, São Paulo - SP"
 
